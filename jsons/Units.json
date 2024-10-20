@@ -1,17 +1,38 @@
 [
-	{
-		"name": "Phasers",
-		"unitType": "Ranged",
-		"uniqueTo": "Aliens",
-		"replaces": "Machine Gun",
-		"movement": 2,
-		"strength": 90,
-		"rangedStrength": 36,
-		"range": 2,
-		"cost": 500,
-		"requiredTech": "Ballistics",
-		"requiredResource": "Uranium",
-		"promotions": ["Logistics","Accuracy I"],
-		"attackSound": "phasers"
-	}
+    {
+        "name": "Peasant Militia",
+        "unitType": "Melee",
+        "uniqueTo": "Bohemia",
+        "replaces": "Worker",
+        "movement": 2,
+        "strength": 40,
+        "defenseBonus": 20,
+        "cost": 80,
+        "canBuild": true,
+        "specialAbility": [
+            "Bonus defense on farms, hills, or near cities with walls"
+        ],
+        "requiredTech": "Bronze Working",
+        "attackSound": "peasants_fight",
+        "description": "The Peasant Militia is a symbol of Bohemian resilience, representing the common folk rising to defend their homeland. Though primarily tasked with labor, these militias are capable of standing up to invaders with surprising strength, especially when defending their farms, hills, or cities fortified with walls. Their knowledge of the land grants them defensive advantages, making them a key unit in Bohemian resistance."
+    },
+    {
+        "name": "Hussite Wagon Fort",
+        "unitType": "Siege",
+        "uniqueTo": "Bohemia",
+        "movement": 1,
+        "strength": 50,
+        "defenseBonus": 30,
+        "cost": 200,
+        "range": 0,
+        "canFortify": true,
+        "abilities": [
+            "Provides a +20% combat strength bonus to adjacent units",
+            "Provides +2 Faith and +2 Culture when fortified",
+            "Can move and fortify, gaining defensive bonuses when stationary"
+        ],
+        "requiredTech": "Chivalry",
+        "attackSound": "wagon_fort_attack",
+        "description": "The Hussite Wagon Fort (Vozová Hradba) was a revolutionary mobile defensive structure used by the Hussites in their battles against superior forces. It consists of wagons chained together to create an impenetrable wall, fortified by soldiers and equipped with weaponry. This unit can move slowly but provides immense defensive advantages once fortified, making it a cornerstone of Bohemian military strategy during the Hussite Wars."
+    }
 ]
