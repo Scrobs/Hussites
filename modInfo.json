@@ -1,10 +1,7 @@
 {
     "name": "Bohemia: The Hussite Legacy",
-    "description": "Play as Bohemia, led by the legendary Jan Žižka, one of the greatest military strategists of medieval Europe. This mod adds the Bohemian civilization, known for its religious reforms, military innovation, and deep cultural heritage. Utilize unique units like the Peasant Militia and the Hussite Wagon Fort to defend your cities, and leverage the Hussite Church and Bohemian Brewery to strengthen both faith and prosperity. Will you lead Bohemia to victory through defiance, faith, and fortifications?",
+    "description": "Play as Bohemia, led by the legendary Jan Žižka, one of the greatest military strategists of medieval Europe. This mod adds the Bohemian civilization, known for its religious reforms, military innovation, and deep cultural heritage. Utilize unique units like the Peasant Militia and the Hussite Wagon Fort to defend your cities, and leverage the Hussite Church and Bohemian Brewery to strengthen both faith and prosperity.",
     "version": "1.0",
     "civVersion": 4,
-    "author": "YourName",
-    "contact": "your.email@example.com",
-    "tags": ["Civilization", "Bohemia", "Jan Žižka", "Hussite Wars", "Defense", "Faith"],
-    "website": "https://github.com/Scrobs/BohemiaHussites"
+    "author": "William Eberlein"
 }
