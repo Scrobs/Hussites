@@ -1,87 +1,50 @@
 {
-    "Bohemia": [
+  "Bohemia": [
       {
-        "text": "Bohemia: A Land of History, Culture, and Defiance",
-        "header": 1,
-        "starred": true,
-        "color": "#8B4513"
-      },
-      {
-        "text": "Bohemia, situated at the heart of Europe, is a land rich in history, culture, and defiance. During the 15th century, the Hussite Wars shaped the very core of Bohemia’s identity. Led by Jan Žižka, a master of defensive warfare, the Bohemians resisted powerful foes through tactical genius and religious fervor."
-      },
-      {
-        "text": "The Bohemian civilization excels at defense, leveraging its unique geography and faith to hold off invaders and inspire its people. Bohemia thrives in cities founded near hills, where their units can take advantage of the terrain to bolster their strength."
+          "text": "Bohemia, situated at the heart of Europe, is a land rich in history, culture, and defiance. During the 15th century, the Hussite Wars shaped the very core of Bohemia’s identity. Led by Jan Žižka, a master of defensive warfare, the Bohemians resisted powerful foes through tactical genius and religious fervor. The Bohemian civilization excels at defense, leveraging its unique geography and faith to hold off invaders and inspire its people. Bohemia thrives in cities founded near hills, where their units can take advantage of the terrain to bolster their strength.",
+          "header": "Bohemia",
+          "starred": false,
+          "color": "default"
       }
-    ],
-    "Jan Žižka": [
+  ],
+  "Jan Žižka": [
       {
-        "text": "Jan Žižka: The Unyielding Hussite Commander",
-        "header": 1,
-        "starred": true,
-        "color": "#8B0000"
-      },
-      {
-        "text": "Jan Žižka, a Czech general and national hero, is known for leading the Hussite forces during the early 15th century. Despite being blind for much of his life, Žižka never lost a battle. His tactical innovations, including the use of the Hussite Wagon Fort, allowed him to overcome superior forces through defensive mastery and unorthodox methods."
-      },
-      {
-        "text": "Under his command, Bohemia stands tall as a civilization of resistance and reform."
+          "text": "Jan Žižka, a Czech general and national hero, is known for leading the Hussite forces during the early 15th century. Despite being blind for much of his life, Žižka never lost a battle. His tactical innovations, including the use of the Hussite Wagon Fort, allowed him to overcome superior forces through defensive mastery and unorthodox methods. Under his command, Bohemia stands tall as a civilization of resistance and reform.",
+          "header": "Jan Žižka",
+          "starred": false,
+          "color": "default"
       }
-    ],
-    "Peasant Militia": [
+  ],
+  "Peasant Militia": [
       {
-        "text": "Peasant Militia: The Backbone of Bohemian Defense",
-        "header": 1,
-        "starred": true,
-        "color": "#006400"
-      },
-      {
-        "text": "The Peasant Militia represents the backbone of Bohemian defense during the Hussite Wars. These common folk were not just laborers but fierce defenders of their land, capable of both working the fields and wielding weapons to defend Bohemia."
-      },
-      {
-        "text": "While weaker than regular military units, they gain significant defensive bonuses on farms, hills, or near walled cities, embodying the resilience of the Bohemian people."
+          "text": "The Peasant Militia represents the backbone of Bohemian defense during the Hussite Wars. These common folk were not just laborers but fierce defenders of their land, capable of both working the fields and wielding weapons to defend Bohemia. While weaker than regular military units, they gain significant defensive bonuses on farms, hills, or near walled cities, embodying the resilience of the Bohemian people.",
+          "header": "Peasant Militia",
+          "starred": false,
+          "color": "default"
       }
-    ],
-    "Hussite Wagon Fort": [
+  ],
+  "Hussite Wagon Fort": [
       {
-        "text": "Hussite Wagon Fort: Mobile Bastion of Defense",
-        "header": 1,
-        "starred": true,
-        "color": "#8B4513"
-      },
-      {
-        "text": "The Hussite Wagon Fort, or Vozová Hradba, was a revolutionary defensive structure used by Hussite armies. Composed of fortified wagons chained together, the fortifications provided a mobile defense capable of halting cavalry charges and enemy advances."
-      },
-      {
-        "text": "The Wagon Fort can move slowly across the battlefield and fortify, offering tremendous defensive advantages to nearby units. It symbolizes Jan Žižka’s brilliance in turning the simplest resources into formidable weapons of war."
+          "text": "The Hussite Wagon Fort, or Vozová Hradba, was a revolutionary defensive structure used by Hussite armies. Composed of fortified wagons chained together, the fortifications provided a mobile defense capable of halting cavalry charges and enemy advances. The Wagon Fort can move slowly across the battlefield and fortify, offering tremendous defensive advantages to nearby units. It symbolizes Jan Žižka’s brilliance in turning the simplest resources into formidable weapons of war.",
+          "header": "Hussite Wagon Fort",
+          "starred": false,
+          "color": "default"
       }
-    ],
-    "Hussite Church": [
+  ],
+  "Hussite Church": [
       {
-        "text": "Hussite Church: Pillar of Faith and Resistance",
-        "header": 1,
-        "starred": true,
-        "color": "#8B0000"
-      },
-      {
-        "text": "The Hussite Church was the heart of Bohemia’s religious reform movement, offering spiritual guidance and unity in the face of foreign and internal threats. Unlike a typical temple, the Hussite Church provides defensive advantages to nearby units, reinforcing the resolve of the faithful defenders of Bohemia."
-      },
-      {
-        "text": "It generates Faith and Great Prophet points, enabling the rise of influential religious leaders who guide Bohemia toward a future rooted in both spiritual and military strength."
+          "text": "The Hussite Church was the heart of Bohemia’s religious reform movement, offering spiritual guidance and unity in the face of foreign and internal threats. Unlike a typical temple, the Hussite Church provides defensive advantages to nearby units, reinforcing the resolve of the faithful defenders of Bohemia. It generates Faith and Great Prophet points, enabling the rise of influential religious leaders who guide Bohemia toward a future rooted in both spiritual and military strength.",
+          "header": "Hussite Church",
+          "starred": false,
+          "color": "default"
       }
-    ],
-    "Bohemian Brewery": [
+  ],
+  "Bohemian Brewery": [
       {
-        "text": "Bohemian Brewery: Craftsmanship and Cultural Pride",
-        "header": 1,
-        "starred": true,
-        "color": "#DAA520"
-      },
-      {
-        "text": "Beer has long been at the center of Bohemian culture and economy, with brewing traditions dating back to the Middle Ages. The Bohemian Brewery not only provides economic benefits but fosters happiness and cultural identity within the cities."
-      },
-      {
-        "text": "The Brewery generates additional Gold, Happiness, and Production, especially in cities with access to fresh water, where the craft of brewing flourishes. The Brewery ensures that Bohemia’s prosperity is not just a matter of faith but also of hard work and craftsmanship."
+          "text": "Beer has long been at the center of Bohemian culture and economy, with brewing traditions dating back to the Middle Ages. The Bohemian Brewery not only provides economic benefits but fosters happiness and cultural identity within the cities. The Brewery generates additional Gold, Happiness, and Production, especially in cities with access to fresh water, where the craft of brewing flourishes. The Brewery ensures that Bohemia’s prosperity is not just a matter of faith but also of hard work and craftsmanship.",
+          "header": "Bohemian Brewery",
+          "starred": false,
+          "color": "default"
       }
-    ]
-  }
-  
+  ]
+}
