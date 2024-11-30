@@ -6,11 +6,10 @@
       "startBias": ["Hills"],
       "preferredVictoryType": "Domination",
       "uniques": [
-          "+15% [Combat Strength] for units on [Hills]",
+          "+15% [Combat Strength] for units on [Hill] tiles",
           "Replaces [Worker]",
-          "Can fight and defend",
           "Replaces [Temple]",
-          "Grants [Faith] and boosts defense of nearby units"
+          "+10% [Combat Strength] when defending near cities with [Walls]"
       ],
       "startIntroPart1": "Arise, warriors of Bohemia, the time has come to stand against tyranny and heresy!",
       "startIntroPart2": "Lead your Hussite armies, forge a new path for the faithful, and let no invader defile our sacred homeland.",

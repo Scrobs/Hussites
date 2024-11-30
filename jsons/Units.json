@@ -6,12 +6,13 @@
       "replaces": "Worker",
       "movement": 2,
       "strength": 40,
-      "defenseBonus": 20,
+      "defenseBonus": 10,
       "cost": 80,
       "canBuild": true,
       "uniques": [
-          "Can fight and defend",
-          "Bonus defense on [Farms], [Hills], or near cities with [Walls]"
+          "+10% [Combat Strength] when defending on [Farm] tiles",
+          "+10% [Combat Strength] when defending on [Hill] tiles",
+          "+10% [Combat Strength] when defending near cities with [Walls]"
       ],
       "requiredTech": "Bronze Working",
       "attackSound": "peasants_fight",
@@ -28,9 +29,8 @@
       "range": 0,
       "canFortify": true,
       "uniques": [
-          "Adjacent units receive +20% [Combat Strength] bonus",
-          "+2 [Faith] and +2 [Culture] when fortified",
-          "Can move and fortify, gaining defensive bonuses when stationary"
+          "Adjacent units gain +20% [Combat Strength] when this unit is fortified",
+          "+2 [Faith] and +2 [Culture] when fortified"
       ],
       "requiredTech": "Chivalry",
       "attackSound": "wagon_fort_attack",
