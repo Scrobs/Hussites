@@ -1,64 +1,64 @@
 [
-  {
-      "name": "Bohemia",
-      "leaderName": "Jan Žižka",
-      "adjective": "Bohemian",
-      "startBias": ["Hills"],
-      "preferredVictoryType": "Domination",
-      "uniques": [
-          "+15% [Combat Strength] for units on [Hills]",
-          "Replaces [Worker] with [Peasant Militia]",
-          "Replaces [Temple] with [Hussite Church]",
-          "+10% [Combat Strength] when defending near cities"
-      ],
-      "startIntroPart1": "Arise, warriors of Bohemia, the time has come to stand against tyranny and heresy!",
-      "startIntroPart2": "Lead your Hussite armies, forge a new path for the faithful, and let no invader defile our sacred homeland.",
-      "declaringWar": "The chalice we defend is not just faith, but the freedom of Bohemia! Prepare for battle!",
-      "attacked": "You strike at a people whose faith is their armor.",
-      "defeated": "Bohemia may fall, but our cause will rise again.",
-      "introduction": "I am Jan Žižka, protector of the Hussite cause and scourge of invaders.",
-      "neutralHello": "What brings you to the lands of Bohemia?",
-      "neutralLetsHearIt": [
-          "Speak plainly, or not at all.",
-          "What do you seek?",
-          "Let’s hear your words, but quickly."
-      ],
-      "neutralNo": [
-          "Bohemia declines.",
-          "This cannot be.",
-          "Our answer is no."
-      ],
-      "neutralYes": [
-          "Agreed.",
-          "Bohemia accepts.",
-          "This is satisfactory."
-      ],
-      "hateHello": "You are a fool to challenge the Hussites.",
-      "hateLetsHearIt": [
-          "Speak, before I lose patience.",
-          "State your demands, but know I owe you nothing.",
-          "This had better be worth my time."
-      ],
-      "hateNo": [
-          "Absolutely not.",
-          "Bohemia will not bend to your whims.",
-          "Impossible."
-      ],
-      "hateYes": [
-          "For now, I accept.",
-          "Very well, but don’t push your luck.",
-          "This is barely tolerable."
-      ],
-      "afterPeace": "For now, the bloodshed ceases. But never forget what we fight for.",
-      "tradeRequest": "Let us see if your offer holds value for the people of Bohemia.",
-      "cities": [
-          "Praha", "Tábor", "Plzeň", "Kutná Hora", "Čáslav", "Beroun", "Litoměřice", "Jihlava",
-          "Hradec Králové", "Olomouc", "Znojmo", "Kroměříž", "Zlín", "Brno", "Cheb", "Opava",
-          "Aš", "Jindřichův Hradec", "Třebíč", "Pardubice", "Chrudim", "Šumperk", "Kladno",
-          "Liberec", "Ústí nad Labem", "Teplice", "Karlovy Vary", "Most", "Děčín", "Kolín",
-          "Mělník", "Písek", "Havlíčkův Brod"
-      ],
-      "outerColor": [119, 91, 52],
-      "innerColor": [255, 255, 255]
-  }
+    {
+        "name": "Bohemia",
+        "leaderName": "Jan Žižka",
+        "adjective": "Bohemian",
+        "startBias": ["Hills"],
+        "preferredVictoryType": "Domination",
+        "uniques": [
+            "+15% [Combat Strength] for units on [Hills]",
+            "Replaces [Worker] with [Peasant Militia]",
+            "Replaces [Temple] with [Hussite Church]",
+            "+10% [Combat Strength] when defending near cities with [Walls]"
+        ],
+        "startIntroPart1": "Arise, warriors of Bohemia, the time has come to stand against tyranny and heresy!",
+        "startIntroPart2": "Lead your Hussite armies, forge a new path for the faithful, and let no invader defile our sacred homeland.",
+        "declaringWar": "The chalice we defend is not just faith, but the freedom of Bohemia! Prepare for battle!",
+        "attacked": "You strike at a people whose faith is their armor.",
+        "defeated": "Bohemia may fall, but our cause will rise again.",
+        "introduction": "I am Jan Žižka, protector of the Hussite cause and scourge of invaders.",
+        "neutralHello": "What brings you to the lands of Bohemia?",
+        "neutralLetsHearIt": [
+            "Speak plainly, or not at all.",
+            "What do you seek?",
+            "Let’s hear your words, but quickly."
+        ],
+        "neutralNo": [
+            "Bohemia declines.",
+            "This cannot be.",
+            "Our answer is no."
+        ],
+        "neutralYes": [
+            "Agreed.",
+            "Bohemia accepts.",
+            "This is satisfactory."
+        ],
+        "hateHello": "You are a fool to challenge the Hussites.",
+        "hateLetsHearIt": [
+            "Speak, before I lose patience.",
+            "State your demands, but know I owe you nothing.",
+            "This had better be worth my time."
+        ],
+        "hateNo": [
+            "Absolutely not.",
+            "Bohemia will not bend to your whims.",
+            "Impossible."
+        ],
+        "hateYes": [
+            "For now, I accept.",
+            "Very well, but don’t push your luck.",
+            "This is barely tolerable."
+        ],
+        "afterPeace": "For now, the bloodshed ceases. But never forget what we fight for.",
+        "tradeRequest": "Let us see if your offer holds value for the people of Bohemia.",
+        "cities": [
+            "Praha", "Tábor", "Plzeň", "Kutná Hora", "Čáslav", "Beroun", "Litoměřice", "Jihlava",
+            "Hradec Králové", "Olomouc", "Znojmo", "Kroměříž", "Zlín", "Brno", "Cheb", "Opava",
+            "Aš", "Jindřichův Hradec", "Třebíč", "Pardubice", "Chrudim", "Šumperk", "Kladno",
+            "Liberec", "Ústí nad Labem", "Teplice", "Karlovy Vary", "Most", "Děčín", "Kolín",
+            "Mělník", "Písek", "Havlíčkův Brod"
+        ],
+        "outerColor": [119, 91, 52],
+        "innerColor": [255, 255, 255]
+    }
 ]
