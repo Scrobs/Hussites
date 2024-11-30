@@ -6,12 +6,12 @@
       "cost": 140,
       "faith": 6,
       "uniques": [
-          "Boosts combat strength of nearby units when defending",
-          "Generates +2 [Great Prophet] points per turn",
+          "+15% [Combat Strength] for units within 2 tiles",
+          "+2 [Great Prophet] points per turn",
           "+1 [Culture] for every 2 adjacent [Hill] tiles"
       ],
       "requiredTech": "Theology",
-      "description": "The Hussite Church is a symbol of resistance and faith, uniting the people of Bohemia under the banner of religious reform. Not only does it serve as a center for generating Faith, but it also inspires nearby defenders to fight with renewed strength. The Hussite Church plays a pivotal role in shaping the cultural and spiritual identity of Bohemia during the turbulent Hussite Wars, ensuring that the call for reform is both heard and fought for."
+      "description": "The Hussite Church is a symbol of resistance and faith, uniting the people of Bohemia under the banner of religious reform. It serves as a center for generating Faith and inspires nearby defenders to fight with renewed strength. The Hussite Church plays a pivotal role in shaping the cultural and spiritual identity of Bohemia during the turbulent Hussite Wars, ensuring that the call for reform is both heard and fought for."
   },
   {
       "name": "Bohemian Brewery",
@@ -25,6 +25,6 @@
           "+1 [Culture]"
       ],
       "requiredTech": "Currency",
-      "description": "The Bohemian Brewery (Pivovar) is a symbol of craftsmanship and cultural pride, a place where the art of brewing beer is celebrated and perfected. Brewing is more than just a trade in Bohemia; it is a part of the nation's identity, fostering both economic growth and cultural unity. Cities with access to fresh water thrive, as trade and happiness flow from the Brewery, enriching the people and shaping the culture."
+      "description": "The Bohemian Brewery (Pivovar) is a symbol of craftsmanship and cultural pride, where the art of brewing beer is celebrated and perfected. Brewing is more than just a trade in Bohemia; it is a part of the nation's identity, fostering both economic growth and cultural unity. Cities with access to fresh water thrive, as trade and happiness flow from the Brewery, enriching the people and shaping the culture."
   }
 ]

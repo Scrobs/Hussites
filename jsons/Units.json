@@ -10,9 +10,9 @@
       "cost": 80,
       "canBuild": true,
       "uniques": [
-          "+10% [Combat Strength] when defending on [Farm] tiles",
-          "+10% [Combat Strength] when defending on [Hill] tiles",
-          "+10% [Combat Strength] when defending near cities with [Walls]"
+          "+10% [Combat Strength] when fighting on [Farm] tiles",
+          "+10% [Combat Strength] when fighting on [Hill] tiles",
+          "+10% [Combat Strength] when fighting near cities with [Walls]"
       ],
       "requiredTech": "Bronze Working",
       "attackSound": "peasants_fight",
@@ -30,7 +30,7 @@
       "canFortify": true,
       "uniques": [
           "Adjacent units gain +20% [Combat Strength] when this unit is fortified",
-          "+2 [Faith] and +2 [Culture] when fortified"
+          "+2 [Faith] and +2 [Culture] if this unit is fortified"
       ],
       "requiredTech": "Chivalry",
       "attackSound": "wagon_fort_attack",
